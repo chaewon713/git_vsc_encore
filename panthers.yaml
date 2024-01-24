@@ -1,9 +1,5 @@
 team : Panthers
-<<<<<<< HEAD
-managers : encore
-=======
 managers : encore2
->>>>>>> 122bb56 (replace manager panthers)
 coach : cw
 members :
 - jslim
